@@ -132,7 +132,7 @@ def fetch_documentation(cdp: str, task: Optional[str] = None) -> str:
             "Segment": "https://segment.com/docs/",
             "mParticle": "https://docs.mparticle.com/",
             "Lytics": "https://docs.lytics.com/",
-            "Zeotap": "https://zeotap.com/documentation/",
+            "Zeotap": "https://docs.zeotap.com/home/en-us/",
             "Tealium": "https://docs.tealium.com/",
             "RudderStack": "https://www.rudderstack.com/docs/"
         }

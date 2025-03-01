@@ -82,24 +82,38 @@
     },
     "Zeotap": {
       "integrate my data": {
-        "url": "https://zeotap.com/platform/data-integration/",
-        "description": "Connect and import data into Zeotap",
-        "common_questions": ["How to import data into Zeotap?", "What data formats are supported?", "How to validate data quality?"]
+        "url": "https://docs.zeotap.com/articles/#!integrate-customer/integrate",
+        "description": "Connect, unify, and manage your data sources within Zeotap's CDP.",
+        "common_questions": [
+            "How to import data into Zeotap?", "What data formats are supported?", "How to validate data quality?"
+        ]
       },
       "create an audience": {
-        "url": "https://zeotap.com/platform/audience-builder/",
-        "description": "Build targeted segments from your user data",
-        "common_questions": ["How to create audience segments?", "What attributes can I use?", "How to export audience segments?"]
+        "url": "https://docs.zeotap.com/articles/#!segment-customer/segment",
+        "description": "Build precise, targeted audience segments using a variety of attributes and data sources.",
+        "common_questions": [
+            "How to create audience segments?",
+            "What attributes can I use?",
+            "How to export audience segments?"
+        ]
       },
       "use unity tag": {
-        "url": "https://zeotap.com/platform/unity-tag/",
-        "description": "Implement Zeotap's tag on your website",
-        "common_questions": ["How to install Unity Tag?", "What tracking options are available?", "How to debug the installation?"]
+        "url": "https://support.zeotap.com/hc/en-us",
+        "description": "Find comprehensive help documentation on tag integration.",
+        "common_questions": [
+            "How to install Unity Tag?",
+            "What tracking options are available?",
+            "How to debug the installation?"
+        ]
       },
       "activate campaigns": {
-        "url": "https://zeotap.com/platform/campaign-activation/",
-        "description": "Activate audience segments across marketing channels",
-        "common_questions": ["How to use segments in campaigns?", "What activation channels are supported?", "How to measure campaign results?"]
+        "url": "https://docs.zeotap.com/articles/#!segment-customer/segment",
+        "description": "Activate your audience segments across a wide range of marketing and advertising channels.",
+        "common_questions": [
+            "How to use segments in campaigns?",
+            "What activation channels are supported?",
+            "How to measure campaign results?"
+        ]
       }
     },
     "Tealium": {
