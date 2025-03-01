@@ -72,7 +72,7 @@ The project leverages several data structures to manage information efficiently.
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/yourusername/cdp-chatbot.git
+git clone https://github.com/pswitchy/cdp-support-chatbot.git
 cd cdp-chatbot/backend
 ```
 
