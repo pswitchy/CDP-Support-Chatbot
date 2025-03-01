@@ -1,0 +1,154 @@
+{
+    "Segment": {
+      "set up a new source": {
+        "url": "https://segment.com/docs/connections/sources/",
+        "description": "Learn how to set up and configure new data sources in Segment",
+        "common_questions": ["How do I add a new source?", "How to set up tracking?", "How to implement Segment in my app?"]
+      },
+      "create an audience": {
+        "url": "https://segment.com/docs/engage/audiences/",
+        "description": "Build and manage user audiences for targeted marketing",
+        "common_questions": ["How do I create a user segment?", "How to define an audience?", "What are the audience criteria options?"]
+      },
+      "implement analytics.js": {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/",
+        "description": "Implementation guide for Segment's JavaScript tracking library",
+        "common_questions": ["How to install analytics.js?", "What events should I track?", "How to debug Segment implementation?"]
+      },
+      "connect destinations": {
+        "url": "https://segment.com/docs/connections/destinations/",
+        "description": "Learn how to connect Segment to downstream tools and platforms",
+        "common_questions": ["How do I send data to Google Analytics?", "How to connect Facebook Pixel?", "What destinations are supported?"]
+      },
+      "use protocols": {
+        "url": "https://segment.com/docs/protocols/",
+        "description": "Standardize and govern your customer data",
+        "common_questions": ["What are Segment Protocols?", "How to enforce data quality?", "How to create tracking plans?"]
+      }
+    },
+    "mParticle": {
+      "create a user profile": {
+        "url": "https://docs.mparticle.com/developers/sdk/web/users/",
+        "description": "Learn how to create and manage user profiles in mParticle",
+        "common_questions": ["How do I identify users?", "How to handle user attributes?", "What is an mParticle ID?"]
+      },
+      "integrate data": {
+        "url": "https://docs.mparticle.com/guides/getting-started/connect-an-event-source/",
+        "description": "Connect data sources to your mParticle implementation",
+        "common_questions": ["How to connect data sources?", "What data formats are supported?", "How to validate incoming data?"]
+      },
+      "implement web SDK": {
+        "url": "https://docs.mparticle.com/developers/sdk/web/getting-started/",
+        "description": "Implementation guide for mParticle's JavaScript SDK",
+        "common_questions": ["How to install mParticle JS SDK?", "What events should I track?", "How to debug events?"]
+      },
+      "set up audiences": {
+        "url": "https://docs.mparticle.com/guides/platform-guide/audiences/",
+        "description": "Create and manage audiences in mParticle",
+        "common_questions": ["How to create audience segments?", "How to export audiences?", "What criteria can I use for audiences?"]
+      },
+      "configure outputs": {
+        "url": "https://docs.mparticle.com/integrations/",
+        "description": "Connect mParticle to downstream platforms and tools",
+        "common_questions": ["How to send data to Google Analytics?", "How to connect to Facebook?", "What integrations are available?"]
+      }
+    },
+    "Lytics": {
+      "build an audience segment": {
+        "url": "https://learn.lytics.com/product/segments",
+        "description": "Create targeted audience segments in Lytics",
+        "common_questions": ["How do I create segments?", "What behavioral criteria can I use?", "How to export segments?"]
+      },
+      "integrate data": {
+        "url": "https://learn.lytics.com/product/connections",
+        "description": "Connect data sources to your Lytics implementation",
+        "common_questions": ["How to import data into Lytics?", "What data sources are supported?", "How to validate data imports?"]
+      },
+      "use javascript tag": {
+        "url": "https://learn.lytics.com/product/javascript-tag",
+        "description": "Implement Lytics tracking on your website",
+        "common_questions": ["How to install Lytics JS?", "What events should I track?", "How to debug the implementation?"]
+      },
+      "activate audiences": {
+        "url": "https://learn.lytics.com/product/campaigns",
+        "description": "Activate audience segments across marketing channels",
+        "common_questions": ["How to use segments in campaigns?", "What activation channels are supported?", "How to measure campaign performance?"]
+      },
+      "use personalization": {
+        "url": "https://learn.lytics.com/product/personalization",
+        "description": "Deliver personalized content based on user data",
+        "common_questions": ["How to implement content personalization?", "What personalization options are available?", "How to test personalization?"]
+      }
+    },
+    "Zeotap": {
+      "integrate my data": {
+        "url": "https://zeotap.com/platform/data-integration/",
+        "description": "Connect and import data into Zeotap",
+        "common_questions": ["How to import data into Zeotap?", "What data formats are supported?", "How to validate data quality?"]
+      },
+      "create an audience": {
+        "url": "https://zeotap.com/platform/audience-builder/",
+        "description": "Build targeted segments from your user data",
+        "common_questions": ["How to create audience segments?", "What attributes can I use?", "How to export audience segments?"]
+      },
+      "use unity tag": {
+        "url": "https://zeotap.com/platform/unity-tag/",
+        "description": "Implement Zeotap's tag on your website",
+        "common_questions": ["How to install Unity Tag?", "What tracking options are available?", "How to debug the installation?"]
+      },
+      "activate campaigns": {
+        "url": "https://zeotap.com/platform/campaign-activation/",
+        "description": "Activate audience segments across marketing channels",
+        "common_questions": ["How to use segments in campaigns?", "What activation channels are supported?", "How to measure campaign results?"]
+      }
+    },
+    "Tealium": {
+      "implement tag manager": {
+        "url": "https://docs.tealium.com/platforms/javascript/install/",
+        "description": "Set up Tealium's tag management solution",
+        "common_questions": ["How to implement Tealium IQ?", "How to add tags?", "How to test tag deployment?"]
+      },
+      "collect data": {
+        "url": "https://docs.tealium.com/platforms/javascript/collect/",
+        "description": "Collect and store user data with Tealium",
+        "common_questions": ["How to collect user data?", "What event types are available?", "How to validate data collection?"]
+      },
+      "create audiences": {
+        "url": "https://docs.tealium.com/server-side/audience-builder/",
+        "description": "Build and manage audience segments",
+        "common_questions": ["How to create audiences in Tealium?", "What segment criteria are available?", "How to export audiences?"]
+      },
+      "use event streams": {
+        "url": "https://docs.tealium.com/server-side/event-stream/",
+        "description": "Configure real-time data streams",
+        "common_questions": ["How to set up event streams?", "What destinations are supported?", "How to monitor stream performance?"]
+      }
+    },
+    "RudderStack": {
+      "set up data sources": {
+        "url": "https://www.rudderstack.com/docs/sources/",
+        "description": "Configure data collection sources in RudderStack",
+        "common_questions": ["How to add a new source?", "What source types are available?", "How to validate source configuration?"]
+      },
+      "implement javascript sdk": {
+        "url": "https://www.rudderstack.com/docs/sources/event-streams/sdks/rudderstack-javascript-sdk/",
+        "description": "Add RudderStack tracking to your website",
+        "common_questions": ["How to install JavaScript SDK?", "What events should I track?", "How to debug the implementation?"]
+      },
+      "connect destinations": {
+        "url": "https://www.rudderstack.com/docs/destinations/",
+        "description": "Send data to downstream platforms and tools",
+        "common_questions": ["How to add destinations?", "What integrations are available?", "How to configure destination settings?"]
+      },
+      "use transformations": {
+        "url": "https://www.rudderstack.com/docs/features/transformations/",
+        "description": "Transform data before sending to destinations",
+        "common_questions": ["How to create data transformations?", "What transformation options exist?", "How to test transformations?"]
+      },
+      "implement data governance": {
+        "url": "https://www.rudderstack.com/docs/features/data-governance/",
+        "description": "Manage data quality and compliance",
+        "common_questions": ["How to enforce data standards?", "How to handle PII data?", "How to implement consent management?"]
+      }
+    }
+  }
