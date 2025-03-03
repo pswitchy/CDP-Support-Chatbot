@@ -18,13 +18,13 @@ The chatbot is built using a FastAPI backend and a JavaScript-based frontend. Th
 
 ```
 backend/
-├── app.py          # FastAPI backend script
-├── cdp_tasks.json  # Predefined tasks and documentation URLs for each CDP
-├── requirements.txt # Python dependencies
-└── static/         # Frontend files
-    ├── index.html  # Chat interface structure
-    ├── style.css   # Chat styling
-    └── script.js   # Chat interactivity
+├── app.py        
+├── cdp_tasks.json  
+├── requirements.txt 
+└── static/        
+    ├── index.html  
+    ├── style.css   
+    └── script.js   
 ```
 
 ## Data Structures Used and Why
